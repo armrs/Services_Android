@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-2678c1fb558585db5f34463bec8b12f9463accd9.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-d1020da7cb1643c20a8e5233758a3f2565bb1027.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/support-annotations-23.2.0-9e4c6006cff9e8b35ffb5c837b88aac4653439ea.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-cd0e2ce039990ba9924c3512705a69a28add2181.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-a17f1bf8269affb83580bba95de52ff72e95f0b5.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0-5aaf9ed42998947a9d6c110137ee368800e245c5.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-3fb01926a458ccce49672d9413707a1d806e5dfc.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-abc7f659e44fe6c98e45c9f2bb3f79dd2b690c4e.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-d1ce1edf6adfdb006f218a44b51a0aa102d5f00e.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-add8f1b9f9e66d1f4058a9a8669e6adb8a772ae5.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-63f1b0fd96be38e770b4495cf2234e22ec9e7f78.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-aa538d441b6d8cc1f98dfb2bb971ed625fc34899.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library/1.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a89762bbbd7f29b4b555f12961653b11d01c8c79">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-59d7c12747985dae3b232a6efc0f2b0eb0da3ac2.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/internal_impl-23.2.0-58cb1b1eba8027be724f68e4f149a632afc98c78.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-84a03a1bf0ac7ce6bf9a0eff6ccec4d45d84fbd3.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-44dad45c225807c4056b75f9ea29fe4c116a07a8.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-76abf11f07a4180d3f6426d2883eeefcb790b178.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-28bb521aeca3cdd7ca365a545fab17146dedd4fd.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-452705f563c4550b08213858e6148c739dfa2401.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-4a6012cefe59b618bab86c51b364640962f240b9.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-298659c258a8ff37e95c5a87ed550f1dacd31d0c.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-f67c9b78575918fa15a2785605da418c5c07fd27.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/2.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1efaa44baeef744bf4130ea1f1b6506113af91d9">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-9c74a4b3555fc6e3f1c7204e727e5a2019d76f66.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-1c58530169e96d0f3cd35f489e0bbad51b686b2c.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-a634bf60b638d4f3a8f5b30fc298f3f780a09c00.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/libs/Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/Parse-1.6.0-da0afefec05958179c5734f718359a3965f5c6c1.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-b14b137143c717b98371e934cde6ff2b79801cec.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/httpmime-4.1.3-6215696422f7986a2dab32082359b4458e36f506.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-85701e0bfe7b19f6e5a1d6439d2d969a787ff1e3.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-9d28988a9a7c67fadaac55bb20017c772aa17698.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-eb241349d477e1ac4c274dd7497ac94b95f8a3ae.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-dcf54662a8b35a47ecebf1abbe36861f5bd7bfee.jar" />
+    </item>
+    <item
+        jar="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/ivanmarroquin/Desktop/Github/Services_Android/app/build/intermediates/pre-dexed/release/classes-1ff78b48ced48e9a869b174a214c4229edbe5a11.jar" />
+    </item>
+
+</items>
